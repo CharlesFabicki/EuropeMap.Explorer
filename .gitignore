@@ -1,0 +1,28 @@
+# Compiled Python files
+__pycache__/
+
+# Logs
+*.log
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local configuration files
+*.idea/
+.vscode/
+
+# User-specific files
+venv/
+env/
+*.pyc
+*.bak
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# OpenCV cache
+opencv*cache/
