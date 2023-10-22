@@ -2,6 +2,9 @@
 
 This project provides an interactive map of Europe using OpenCV, allowing users to click on different countries to view information about them.
 
+## Screenshot
+![Example](https://github.com/CharlesFabicki/EuropeMap.Explorer/assets/103677730/43b0a8f7-8795-4b77-b82f-0b96bec212d3)
+
 ## Overview
 
 This Python script uses the OpenCV library to display a map of Europe. Users can click on various countries on the map, and a pop-up window will appear with information about the selected country, including details such as capital, population, currency, area, languages spoken, and tourist attractions.
@@ -15,9 +18,12 @@ Before running the script, you need to have the following installed on your syst
 - NumPy
 
 You can install the required packages using pip:
-
+```
 pip install opencv-python-headless numpy
-
+```
+```
+pip install --upgrade opencv-python
+```
 
 ## Usage
 
