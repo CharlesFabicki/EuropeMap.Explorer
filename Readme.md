@@ -31,6 +31,9 @@ pip install --upgrade opencv-python
 2. Ensure you have the required libraries installed (see Prerequisites).
 3. Place the map image (e.g., `europe_map.jpg`) in the same directory as the script.
 4. Run the script using the following command:
+```
+python Europe-Map-Explorer.py
+```
 5. A window will appear displaying the map of Europe. Click on any country to view its information in a pop-up window.
 
 ## Contributing
