@@ -3,7 +3,7 @@
 This project provides an interactive map of Europe using OpenCV, allowing users to click on different countries to view information about them.
 
 ## Screenshot
-![Example](https://github.com/CharlesFabicki/EuropeMap.Explorer/assets/103677730/43b0a8f7-8795-4b77-b82f-0b96bec212d3)
+![preview](https://github.com/CharlesFabicki/EuropeMap.Explorer/assets/103677730/98770e72-78e1-4965-a7aa-0122a85ea7f8)
 
 ## Overview
 
